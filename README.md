@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/saqibkafeel/PaginationController/develop/readme-images/logo.png" alt="PaginationController" title="PaginationController" width="128"  height="128"/><br/>
+    <img src="https://github.com/saqibkafeel/PaginationController/blob/master/readme-images/logo.png?raw=true" alt="PaginationController" title="PaginationController" width="128"  height="128"/><br/>
     <b>PaginationController</b><br/>
     <br/>
     <img src="https://img.shields.io/badge/Swift-5-orange" alt="Swift Version" title="Swift Version"/>
@@ -48,7 +48,7 @@ class ViewController: UITableViewController {
 
 ## 🎟 Demo
 
-<img src="https://raw.githubusercontent.com/saqibkafeel/PaginationController/develop/readme-images/demo.gif" alt="Pagination Controller Demo" title="Pagination Controller Demo" width="320"/>
+<img src="https://github.com/saqibkafeel/PaginationController/blob/master/readme-images/demo.gif?raw=true" alt="Pagination Controller Demo" title="Pagination Controller Demo" width="320"/>
 
 You can find this demo app in this repository.
 
